@@ -1,1 +1,2 @@
 New content
+Hello, Git!
